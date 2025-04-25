@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    font-size:larger;
+}
+
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
